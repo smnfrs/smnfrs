@@ -1,3 +1,5 @@
+# Hi, I'm Simon
+
 Data scientist based in Berlin. I came to data science from economics and quantitative modelling, then a data science bootcamp at WBS Coding School.
 
 ## Projects
